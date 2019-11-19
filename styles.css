@@ -26,7 +26,11 @@ nav {
   text-align: right;
 }
 
-p.logOut {
+a.logOut {
+    margin-right: 2%;
+}
+
+a.recommendBeer {
     margin-right: 2%;
 }
 
